@@ -1,3 +1,3 @@
 # School-Portfolio
 
-![Uploading Team-Logo.png…]()
+Team-Logo.png
