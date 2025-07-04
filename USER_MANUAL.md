@@ -1,3 +1,3 @@
 # Introduction
-# Usage instructions (using Figma or any prototype tool)
+# Usage instructions
 # Any other relevant information
