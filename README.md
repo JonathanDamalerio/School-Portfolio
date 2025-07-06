@@ -6,38 +6,18 @@
 
 Above is our official team logo, which represents our identity and collaborative spirit.
 
-# 🛒 LogistX
+## Contents
 
-A mobile-friendly food ordering and delivery management system designed for kiosks, store vendors, and warehouse logistics teams. This prototype supports customer orders, inventory control, truck loading, and payment processing in an efficient and organized way.
+Assets – Includes all media and resources utilized in this repository.
 
-## 📌 Features
+Coursera Certificates – Official certificates awarded to team members.
 
-- 👤 User Authentication (Login & Registration)
-- 🛍️ Product Browsing and Ordering
-- 🧾 Checkout and Payment Methods (Cash, GCash, Bank)
-- 🚚 Truck Load Management
-- 🏷️ Supplier, Consumer, Employee, and Vehicle Management
-- 📦 Warehouse and Inventory Tracking
-- 🧑‍💼 Profile and Account Settings
+User Manual – A comprehensive guide to help users navigate and make the most of the app prototype.
 
-## 📷 Preview
+Part 1 – Documents from the initial planning and development phase.
 
-> Sample UI Screens:
-- Login & Register Screen  
-- Product Menu with Descriptions  
-- Order Summary & Checkout  
-- Load to Truck Interface  
-- Consumer, Supplier, and Vehicle Management Forms  
+Part 2 – Materials and outputs from the second stage of the project.
 
-## 🚧 Tech Stack (To be implemented)
+Part 3 – Documentation covering the third phase of development.
 
-> This prototype serves as a UI/UX guide for the future implementation. Suggested technologies:
-- **Frontend:** Flutter / React Native / HTML + JS
-- **Backend:** Node.js / Firebase / Django
-- **Database:** Firestore / MySQL / MongoDB
-- **Authentication:** Firebase Auth / OAuth
-
-## 📄 Version
-
-**v1.0.0** – Initial Prototype Release  
-**Developed by:** Ancla, Bautista, Damalerio
+Part 4 – Final deliverables and documents marking project completion.
